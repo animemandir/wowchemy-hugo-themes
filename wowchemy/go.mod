@@ -1,3 +1,3 @@
-module github.com/animemandir/wowchemy-hugo-themes/wowchemy/v5
+module github.com/animemandir/wowchemy-hugo-themes/wowchemy/
 
 go 1.15
